@@ -1,0 +1,6 @@
+Giữ Shift chuột phải trong folder
+dán đoạn này python extract.py vào
+chạy sẽ tự động tạo ra file danh_sach_gia_pha.txt
+Copy đoạn mã trong file .txt dán vào "const dataGiaPha = [" trong file timkiem.js
+copy toàn bộ code trong timkiem.js dán vào web
+
