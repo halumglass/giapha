@@ -1,0 +1,8 @@
+giữ shift + chuột phải 
+open Powersell
+git init
+git add .
+git commit -m "Cập nhật dữ liệu gia phả"
+git branch -M main
+git remote add origin https://github.com/halumglass/phaky.git
+git push -u origin main
